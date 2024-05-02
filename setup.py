@@ -16,7 +16,9 @@ setup(
     install_requires=[
         "scikit-learn==1.3.0",
         "pandas==1.1.3",
-        "numpy==1.23.5"
+        "numpy==1.23.5",
+        "tqdm==4.66.2",
+        "matplotlib==3.7.5"
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
